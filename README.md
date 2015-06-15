@@ -1,12 +1,7 @@
-系统学习Javascript(JS)
+Javascript Tutorial（js的高级程序设计教程）
 ====
-编辑、整理 By [xujiajun](http://xujiajun.cn）
+编辑整理 By [xujiajun](http://xujiajun.cn）
 - - - 
-前言
-----
-如何编辑本文？[请点击这里](https://github.com/xujiajun/Learning-JS/edit/master/README.md)
-
-如何fork本文？点击右上角"Fork" 按钮.
 
 <h2>目录</h2>
 - [1、Javascript是什么](#js-intro)
