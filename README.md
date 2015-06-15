@@ -1,8 +1,8 @@
 Javascript Tutorial（js的高级程序设计教程）
 ====
-编辑整理 By [xujiajun](http://xujiajun.cn）
+编辑、整理 By [xujiajun](http://xujiajun.cn)
 - - - 
-
+[点击编辑本文](https://github.com/xujiajun/Javascript-Tutorial/edit/master/README.md)
 <h2>目录</h2>
 - [1、Javascript是什么](#js-intro)
 - [2、ECMAScript基础](#ECS-intro)
